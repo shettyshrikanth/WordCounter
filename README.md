@@ -1,1 +1,3 @@
 # WordCounter
+
+mvn verify
